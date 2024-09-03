@@ -27,5 +27,5 @@ It's blackjack game.
 6. **Winning**:
    - **Blackjack**: An Ace and a 10-point card.
    - **Win**: Your hand is closer to 21 than the dealer's without going over.
-   - **Draw**: Tie with the dealer; your bet is returned.
+   - **Draw**: Tie with the dealer.
    - **Loss**: Your hand goes over 21 or is lower than the dealer’s hand.
