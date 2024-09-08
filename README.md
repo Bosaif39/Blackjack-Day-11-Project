@@ -1,8 +1,10 @@
+
+### **Blackjack**
+
+**Overview:**
 This is the day 11 project of the course 100 Days of Code: The Complete Python Pro Bootcamp.
 
-It's blackjack game.
-
-### Blackjack Rules 
+### How It Works Blackjack Rules 
 
 1. **Objective**:
    - Get as close to 21 as possible without going over.
@@ -29,3 +31,14 @@ It's blackjack game.
    - **Win**: Your hand is closer to 21 than the dealer's without going over.
    - **Draw**: Tie with the dealer.
    - **Loss**: Your hand goes over 21 or is lower than the dealer’s hand.
+  
+
+**Example**
+
+![alt text]()
+
+**Requirements:**
+
+Python 3.x
+
+
