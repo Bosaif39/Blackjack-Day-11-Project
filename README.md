@@ -1,10 +1,10 @@
-### **Blackjack**
+# **Blackjack**
 
-**Overview:**
+## **Overview:**
 
 This is the Day 11 project from the 100 Days of Code: The Complete Python Pro Bootcamp. This script simulates a game of Blackjack where players aim to get as close to 21 as possible without exceeding it, and beat the dealer's hand.
 
-### How It Works:
+##  How It Works:
 
 **Blackjack Rules:**
 
@@ -33,11 +33,11 @@ This is the Day 11 project from the 100 Days of Code: The Complete Python Pro Bo
    - **Draw:** Your hand ties with the dealer’s hand.
    - **Loss:** Your hand exceeds 21 or is less than the dealer’s hand.
 
-**Example:**
+## **Example:**
 
 ![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_11.png?raw=true)
 
-**Requirements:**
+## **Requirements:**
 
 - Python 3.x
 
