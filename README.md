@@ -6,7 +6,7 @@ This is the Day 11 project from the 100 Days of Code: The Complete Python Pro Bo
 
 ##  How It Works:
 
-**Blackjack Rules:**
+### **Blackjack Rules:**
 
 1. **Objective:**
    - Get as close to 21 points as possible without exceeding it.
